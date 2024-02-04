@@ -21,7 +21,7 @@ export default function Features() {
       icon: BsReceipt,
       title: "Brand Your Invoice",
       description:
-        "Easily add the business logo and change the color of the invoice with one click. No Watermark. No Ads",
+        "Easily add the items picture and change the color of the invoice with one click. No Watermark. No Ads",
     },
     {
       icon: BiReceipt,
@@ -39,7 +39,7 @@ export default function Features() {
       icon: IoReceiptSharp,
       title: "Recurring Invoices",
       description:
-        "Refrens invoice generator create recurring invoices for you that take place at regular intervals.",
+        "Samaco invoice generator create recurring invoices for you that take place at regular intervals.",
     },
     {
       icon: BiSolidReport,
